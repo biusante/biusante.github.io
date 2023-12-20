@@ -16,7 +16,7 @@ layout: default
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Actualités</h3>
     {% for post in site.posts %}
-      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.date }}-{{ post.title }}</a> </p>
+      <p>{{ post.date | date: "%yyyy, %mm %dd" }} - <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
   </div>
 </div>
