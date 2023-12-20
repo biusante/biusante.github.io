@@ -1,4 +1,4 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Métadictionnaire" # the name of your site, e.g. ACME Corp.
-description: "Métadictionnaire multilingue de la bibliothèque numérique Medica"
+title: "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" # the name of your site, e.g. ACME Corp.
+description: "Bienvenue sur la page GitHub du Métadictionnaire"

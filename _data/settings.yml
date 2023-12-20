@@ -1,7 +1,7 @@
 menu:
-- {icon: 'à propos', link: 'https://www.biusante.parisdescartes.fr/histoire/medica/presentation-metadictionnaire.php'}
-- {icon: 'corpus', link: 'https://www.biusante.parisdescartes.fr/histoire/medica/corpus-metadictionnaire.php'}
-- {icon: 'interface', link: 'https://www.biusante.parisdescartes.fr/histoire/medica/metadictionnaire/'}
+- {name: 'à propos'}
+- {name: 'corpus'}
+- {name: 'interface'}
 
 social:
 - {icon: 'github', link: 'https://github.com/biusante'}
