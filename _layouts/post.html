@@ -4,9 +4,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-12">
-    {% for post in site.posts %}
-      <p>{{ post.date | date: "%y/%m/%d" }} - <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></p>
-	{% endfor %}
-  {{ content }}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.date | date: "%y/%m/%d" }} - {{ page.title }}</h3>
+    {{ content }}
   </div>
 </div>
