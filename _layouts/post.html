@@ -6,7 +6,7 @@ layout: default
   <div class="col-md-12">
     {% for post in site.posts %}
       <p>{{ post.date | date: "%y/%m/%d" }} - <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></p>
-    {{ content }}
 	{% endfor %}
+  {{ content }}
   </div>
 </div>
