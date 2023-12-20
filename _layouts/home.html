@@ -7,7 +7,7 @@ layout: default
     {{ content }}
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="80%">
+    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
 	<p>Crédits &copy; : BIU Santé médecine – Université Paris Cité</p>
   </div>
 </div>
@@ -16,7 +16,7 @@ layout: default
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Actualités</h3>
     {% for post in site.posts %}
-      <p>{{ post.date | date: "%yyyy, %mm %dd" }} - <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></p>
+      <p>{{ post.date | date: "%y/%m/%d" }} - <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
   </div>
 </div>
