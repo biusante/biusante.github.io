@@ -1,4 +1,0 @@
----
-layout: corpus
-title: "corpus"
----

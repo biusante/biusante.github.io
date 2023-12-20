@@ -1,7 +1,2 @@
-menu:
-- {name: 'à propos', url :'/à propos'}
-- {name: 'corpus', url :'/corpus'}
-- {name: 'interface', url :'/interface'}
-
 social:
 - {icon: 'github', link: 'https://github.com/biusante'}
