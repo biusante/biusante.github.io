@@ -7,4 +7,12 @@ Bienvenue sur la page GitHub du «[Métadictionnaire médical multilingue de la 
 
 Sur le site de la Bibliothèque numérique Medica se trouve une [présentation](https://www.biusante.parisdescartes.fr/histoire/medica/presentation-metadictionnaire.php) détaillée des réalisations de ce projet soutenu dans sa [phase préparatoire](https://www.collexpersee.eu/projet/metadictmedprojet/) puis [d’octobre 2020 à juin 2023](https://www.collexpersee.eu/projet/metadictionnaire-medical-multilingue/) par CollEx-Persée.
 
-Les données et le code du Métadictionnaire se trouvent sous licence ouverte sur le [compte GitHub](https://github.com/biusante) qui lui est associé. Cette page est destinée à rendre compte des travaux qui y sont effectués.
+Les données et le code du Métadictionnaire se trouvent sous [licence ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) sur le [compte GitHub](https://github.com/biusante) qui lui est associé. Cette page est destinée à rendre compte des travaux qui y sont effectués.
+
+Liens utiles
+
+[Interface](https://www.biusante.parisdescartes.fr/histoire/medica/metadictionnaire/)
+
+[GitHub](https://github.com/biusante)
+
+[Contact](etymologika@gmail.com)
