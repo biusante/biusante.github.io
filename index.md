@@ -9,4 +9,4 @@ Sur le site de la Bibliothèque numérique Medica se trouve une [présentation](
 
 Les données et le code du Métadictionnaire se trouvent sous [licence ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) sur le [compte GitHub](https://github.com/biusante) qui lui est associé. Cette page est destinée à rendre compte des travaux qui y sont effectués.
 
-**Liens utiles:** [Interface](https://www.biusante.parisdescartes.fr/histoire/medica/metadictionnaire/) [Contact](etymologika@gmail.com)
+**Liens utiles:** [Interface du Métadictionnaire](https://www.biusante.parisdescartes.fr/histoire/medica/metadictionnaire/) [Compte GitHub](https://github.com/biusante) [Contact](etymologika@gmail.com)
