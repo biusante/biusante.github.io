@@ -2,13 +2,13 @@
 layout: post
 title: "Séminaire IXXI, 18 janvier 2023, École Normale Supérieure de Lyon"
 ---
-Séminaire GEODE "Extraction, traitement et visualisation de données complexes en géographie (XVIIIe s. - XIXe s.)". Cycle de conférences organisées à l’École Normale Supérieure de Lyon par **Denis Vigier** et **Ludovic Moncla** et financées par l’Institut Rhônalpin des systèmes Complexes (IXXI).
+Séminaire GEODE "Extraction, traitement et visualisation de données complexes en géographie (XVIIIe s. – XIXe s.)". Cycle de conférences organisées à l’École Normale Supérieure de Lyon par **Denis Vigier** et **Ludovic Moncla** et financées par l’Institut Rhônalpin des systèmes Complexes (IXXI).
 
-Session 18 - Linguistique des discours, traitement automatique des langues.
+Session 18 –  Linguistique des discours, traitement automatique des langues.
 
-Séance du 18 janvier 2023, 14h – 15h30
+Séance du 18 janvier 2023, 14h – 15h30.
 
-École Normale Supérieure de Lyon, bâtiment Recherche (D4), salle D4 179 et en ligne
+École Normale Supérieure de Lyon, bâtiment Recherche (D4), salle D4 179 et en ligne.
 
 **Baliser des dictionnaires anciens en XML-TEI pour en extraire des données lexicales: l’expérience du projet CollEx-Persée de «Métadictionnaire médical multilingue de la bibliothèque numérique Medica»**
 
