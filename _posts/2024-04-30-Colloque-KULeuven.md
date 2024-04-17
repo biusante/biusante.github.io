@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colloque. La science par les mots, 30 avril 2024, KU Leuven"
+title: "La science par les mots, 30 avril 2024, KU Leuven"
 
 ---
 
