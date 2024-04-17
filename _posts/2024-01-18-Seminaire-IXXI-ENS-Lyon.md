@@ -4,7 +4,7 @@ title: "Séminaire IXXI, 18 janvier 2024, École Normale Supérieure de Lyon"
 ---
 Séminaire GEODE «Extraction, traitement et visualisation de données complexes en géographie (XVIIIe s. – XIXe s.)». Cycle de conférences organisées à l’École Normale Supérieure de Lyon par **Denis Vigier** et **Ludovic Moncla** et financées par l’Institut Rhônalpin des systèmes Complexes (IXXI).
 
-Session 18 –  Linguistique des discours, traitement automatique des langues.
+Session 18 – Linguistique des discours, traitement automatique des langues.
 
 Séance du 18 janvier 2024, 14h – 15h30.
 
