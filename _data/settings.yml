@@ -1,3 +1,5 @@
+menu:
+- {name: 'Actualités', url: '/updates'}
 
 updates:
 - {date: '2024-04-30', name: 'Colloque «La science par les mots», KU Leuven', url: 'colloque-KULeuven'}
