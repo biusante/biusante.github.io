@@ -1,4 +1,4 @@
 ---
-layout: updates
+layout: update
 title: "updates"
 ---
