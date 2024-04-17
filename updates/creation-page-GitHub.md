@@ -1,5 +1,5 @@
 ---
-layout: update
+layout: page
 title: "Création de la page GitHub du Métadictionnaire"
 ---
 
