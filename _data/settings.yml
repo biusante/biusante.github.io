@@ -1,0 +1,8 @@
+menu:
+- {name: 'actualités', url: '/updates'}
+
+updates:
+- {name: '2024-04-30 - Colloque «La science par les mots», KU Leuven', url: 'colloque-KULeuven'}
+- {name: '2024-01-18 - Séminaire IXXI, École Normale Supérieure de Lyon', url: 'seminaireIXXI-ENSL'}
+- {name: '2023-12-21 - Création de la page GitHub du Métadictionnaire', url: 'creation-page-GitHub'}
+
