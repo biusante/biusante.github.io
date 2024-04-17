@@ -11,12 +11,3 @@ layout: default
 	<p>Source: BIU Santé médecine – Université Paris Cité sous licence <i class="fas fa-balance-scale"></i><a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/">Etalab</a></p>
   </div>
 </div>
-
-<div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Actualités</h3>
-    {% for post in site.posts %}
-      <p>{{ post.date }} - <a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></p>
-    {% endfor %}
-  </div>
-</div>
