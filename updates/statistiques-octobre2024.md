@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Données disponibles dans l’interface du Métadictionnaire"
+title: "Statistiques - Données disponibles en octobre 2024"
 ---
 
-Données disponibles dans l’interface du Métadictionnaire.
 Les éléments ayant fait l’objet d’une relecture sont indiqués **en gras**.
 
 |nom|année|pages|entrées|vedettes|locutions|synonymes|renvois|<span style="background-color:#BAE4FE">trad fra</span>|<span style="background-color:#C2FEBA">trad lat</span>|<span style="background-color:#FFC000">trad grc</span>|<span style="background-color:#FFFF00">trad eng</span>|<span style="background-color:#FFFF00">trad deu</span>|<span style="background-color:#FFFF00">trad spa</span>|<span style="background-color:#FFFF00">trad ita</span>|<span style="background-color:#FED3BA">trad ara</span>|<span style="background-color:#FED3BA">trad heb & al.</span>|total traductions|version bêta sept 2022|version 1.0.0 avril 2024|en préparation au 1er octobre 2024|
