@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Données disponibles dans l’interface du Métadictionnaire"
-
 ---
 
 Données disponibles dans l’interface du Métadictionnaire.
