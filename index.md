@@ -14,3 +14,8 @@ Les données et le code du Métadictionnaire se trouvent sous [licence ouverte](
 - [Interface du Métadictionnaire](https://www.biusante.parisdescartes.fr/histoire/medica/metadictionnaire/) 
 - [Compte GitHub](https://github.com/biusante)
 - [Contact](mailto:etymologika@gmail.com)
+
+**Données disponibles dans l'interface**
+
+- Statistiques au 1<sup>er</sup> octobre 2024
+
