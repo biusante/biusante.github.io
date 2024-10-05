@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Statistiques - Données disponibles en octobre 2024"
+title: "Données disponibles en octobre 2024"
 ---
 
 **Données disponibles dans l'interface du Métadictionnaire**
