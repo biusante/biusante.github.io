@@ -6,12 +6,14 @@ title: "Données disponibles en octobre 2024"
 **Données disponibles dans l'interface du Métadictionnaire**
 
 Les éléments ayant fait l’objet d’une relecture sont indiqués **en gras**.
+Le compte des mots actuellement balisés dans les fichiers XML-TEI est surligné, selon la langue, en bleu (français), vert (latin), orange (grec), jaune (autres langues modernes:  anglais, allemand, espagnol, italien) ou en rose (araben hébreu, autres).
+Pour consulter l’état des travaux en cours, et connaître en particulier quelles sont les données actuellement disponibles dans l’interface, déplacer la barre de défilement horizontale qui se trouve en bas du tableau afin de faire apparaître les colonnes de droite.
 
 - Statistiques d'octobre 2024
 
 |nom|année|pages|entrées|vedettes|locutions|synonymes|renvois|<span style="background-color:#BAE4FE">trad fra</span>|<span style="background-color:#C2FEBA">trad lat</span>|<span style="background-color:#FFC000">trad grc</span>|<span style="background-color:#FFFF00">trad eng</span>|<span style="background-color:#FFFF00">trad deu</span>|<span style="background-color:#FFFF00">trad spa</span>|<span style="background-color:#FFFF00">trad ita</span>|<span style="background-color:#FED3BA">trad ara</span>|<span style="background-color:#FED3BA">trad heb & al.</span>|total traductions|version bêta sept 2022|version 1.0.0 avril 2024|en préparation au 1er octobre 2024|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|de Gorris Index lat.-gr.|1601|14|**2197**|<span style="background-color:#C2FEBA">**2198**</span>|–|–|–|–|–|<span style="background-color:#FFC000">**2556**</span>|–|–|–|–|–|–|2556|oui|oui|–|
+|**de Gorris Index lat.-gr.**|**1601**|14|**2197**|<span style="background-color:#C2FEBA">**2198**</span>|–|–|–|–|–|<span style="background-color:#FFC000">**2556**</span>|–|–|–|–|–|–|2556|oui|oui|–|**de Gorris Index lat.-gr.**|**1601**|14|
 |Littré Robin 13e éd. Gloss. gr.|1873|11|**1830**|<span style="background-color:#FFC000">**1935**</span>|–|–|–|<span style="background-color:#BAE4FE">**1888**</span>|–|–|–|–|–|–|–|–|1888|oui|oui|–|
 |Littré Robin 13e éd. Gloss. angl.|1873|14|**2416**|<span style="background-color:#FFFF00">**2432**</span>|–|–|–|<span style="background-color:#BAE4FE">**2171**</span>|–|–|–|–|–|–|–|–|2172|oui|oui|–|
 |Littré Robin 13e éd. Gloss. lat.|1873|19|**3210**|<span style="background-color:#C2FEBA">**3310**</span>|–|–|–|<span style="background-color:#BAE4FE">**3372**</span>|–|–|–|–|–|–|–|–|3372|oui|oui|–|
