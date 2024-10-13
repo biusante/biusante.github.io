@@ -6,10 +6,19 @@ title: "Données disponibles en octobre 2024"
 **Données disponibles dans l'interface du Métadictionnaire**
 
 Les éléments ayant fait l’objet d’une relecture sont indiqués **en gras**.
-Le compte des mots actuellement balisés dans les fichiers XML-TEI est surligné, selon la langue, en bleu (français), vert (latin), orange (grec), jaune (autres langues modernes:  anglais, allemand, espagnol, italien) ou en rose (arabe, hébreu, autres).
-Pour consulter l’état des travaux en cours, et connaître en particulier quelles sont les données actuellement disponibles dans l’interface, déplacer la barre de défilement horizontale qui se trouve en bas du tableau afin de faire apparaître les colonnes de droite.
+Le **compte des mots actuellement balisés** dans les fichiers XML-TEI est surligné, selon la langue : 
 
-- Statistiques d'octobre 2024
+- <span style="background-color:#BAE4FE">français</span>
+- <span style="background-color:#C2FEBA">latin</span>
+- <span style="background-color:#FFC000">grec</span>
+- autres langues modernes: <span style="background-color:#FFFF00">anglais, allemand, espagnol, italien</span>
+- <span style="background-color:#FED3BA">arabe, hébreu, autres</span>
+
+> [!IMPORTANT]
+>
+> Pour consulter l’état des travaux en cours, et connaître en particulier quelles sont les données actuellement disponibles dans l’interface, déplacer la barre de défilement horizontale qui se trouve en bas du tableau afin de faire apparaître les colonnes de droite.
+
+**Statistiques d'octobre 2024**
 
 |nom|année|pages|entrées|vedettes|locutions|synonymes|renvois|<span style="background-color:#BAE4FE">trad fra</span>|<span style="background-color:#C2FEBA">trad lat</span>|<span style="background-color:#FFC000">trad grc</span>|<span style="background-color:#FFFF00">trad eng</span>|<span style="background-color:#FFFF00">trad deu</span>|<span style="background-color:#FFFF00">trad spa</span>|<span style="background-color:#FFFF00">trad ita</span>|<span style="background-color:#FED3BA">trad ara</span>|<span style="background-color:#FED3BA">trad heb & al.</span>|total traductions|version bêta sept 2022|version 1.0.0 avril 2024|en préparation au 1er octobre 2024|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
